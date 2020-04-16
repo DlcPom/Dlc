@@ -1,5 +1,6 @@
 # Dlc
 <html>
+	<head>
 	<style type="text/css">
 
 body {
@@ -19,6 +20,7 @@ a img {
 }
 
 </style>
+</head>
 <body>
 
  
