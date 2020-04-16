@@ -1,26 +1,6 @@
 # Dlc
 <html>
-	<head>
-	<style type="text/css">
 
-body {
-	color:#000000;
-	background-color:#FF7800;
-	margin:auto;
-}
-
-#container {
-	margin-left:auto;
-	margin-right:auto;
-	text-align:center;
-	}
-
-a img {
-	border:none;
-}
-
-</style>
-</head>
 <body>
 
  
