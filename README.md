@@ -1,7 +1,7 @@
 # Dlc
 <html>
 	<style type="text/css">
- <!--
+
 body {
 	color:#000000;
 	background-color:#FF7800;
@@ -18,7 +18,6 @@ a img {
 	border:none;
 }
 
--->
 </style>
 <body>
 
