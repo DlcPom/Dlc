@@ -1,5 +1,24 @@
 # Dlc
 <html>
+ <!--
+body {
+	color:#000000;
+	background-color:#FF7800;
+	margin:auto;
+}
+
+#container {
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	}
+
+a img {
+	border:none;
+}
+
+-->
+</style>
 <body>
 
  
