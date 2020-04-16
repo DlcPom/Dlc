@@ -1,5 +1,6 @@
 # Dlc
 <html>
+	<style type="text/css">
  <!--
 body {
 	color:#000000;
